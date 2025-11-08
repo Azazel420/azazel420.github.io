@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-07T07:37:16.309-06:00","modified":"2025-11-08T04:35:05.621-06:00","cssclasses":"","socialImage":"/content/images/the-art/shitdrawing.png"}
+{"publish":true,"created":"2025-11-07T07:37:16.309-06:00","modified":"2025-11-08T04:38:07.960-06:00","cssclasses":"","socialImage":"/content/images/the-art/shitdrawing.png"}
 ---
 
 ![](images/the-art/shitdrawing.png)
