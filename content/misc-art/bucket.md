@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-07T07:37:16.311-06:00","modified":"2025-11-08T04:18:54.009-06:00","cssclasses":"","socialImage":"/img/user/images/the-art/bucket.png"}
+{"publish":true,"created":"2025-11-07T07:37:16.311-06:00","modified":"2025-11-08T04:35:05.623-06:00","cssclasses":"","socialImage":"/content/images/the-art/bucket.png"}
 ---
 
 ![](images/the-art/bucket.png)
