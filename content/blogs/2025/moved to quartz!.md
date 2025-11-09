@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-08","modified":"2025-11-09T17:46:38.903-06:00","tags":["blog"],"cssclasses":""}
+{"publish":true,"created":"2025-11-08","modified":"2025-11-09T17:57:05.896-06:00","tags":["blog"],"cssclasses":""}
 ---
 
 hey guys, the newest thing is that i've moved over to quartz, that's really it, its a lot more customizable, so yeah pretty neat.
