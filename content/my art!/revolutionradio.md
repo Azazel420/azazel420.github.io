@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-07T07:37:16.309-06:00","modified":"2025-11-08T04:44:40.216-06:00","cssclasses":"","socialImage":"/images/the-art/revolutionradio.png"}
+{"publish":true,"created":"2025-04-27","modified":"2025-11-09T17:47:12.365-06:00","tags":["a","r","t"],"cssclasses":"","socialImage":"/images/the-art/revolutionradio.png"}
 ---
 
 ![](images/the-art/revolutionradio.png)
