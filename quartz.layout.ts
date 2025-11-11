@@ -14,6 +14,7 @@ export const sharedPageComponents: SharedLayout = {
       instagram: "https://www.instagram.com/azazel421/",
       tumblr: "https://www.tumblr.com/blog/azazel421",
       itchio: "https://azazel42.itch.io/",
+      mail: "mailto:azazelunincorporated@gmail.com",
     },
   }),
 }
