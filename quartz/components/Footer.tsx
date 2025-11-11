@@ -18,9 +18,11 @@ export default ((opts?: Options) => {
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
         <ul>
-          {Object.entries(links).map(([text, link]) => (
+          {Object.entries(links).map(([icon, link]) => (
             <li>
-              <a href={link}>{text}</a>
+              <a href={link}>
+                <img src={`/static/socialmediaicons/${icon}.png`} width={"48"}></img>
+              </a>
             </li>
           ))}
         </ul>

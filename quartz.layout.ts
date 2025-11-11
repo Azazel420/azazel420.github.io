@@ -7,13 +7,13 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/Azazel420",
-      "Youtube": "https://www.youtube.com/@azazel42",
-      "Bluesky": "https://bsky.app/profile/azazel421.bsky.social",
-      "Instagram": "https://www.instagram.com/azazel421/",
-      "Tumblr": "https://www.tumblr.com/blog/azazel421",
-      "Itch.io": "https://azazel42.itch.io/",
+    links:{
+      github: "https://github.com/Azazel420",
+      youtube: "https://www.youtube.com/@azazel42",
+      bsky: "https://bsky.app/profile/azazel421.bsky.social",
+      instagram: "https://www.instagram.com/azazel421/",
+      tumblr: "https://www.tumblr.com/blog/azazel421",
+      itchio: "https://azazel42.itch.io/",
     },
   }),
 }
