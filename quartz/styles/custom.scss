@@ -2,8 +2,21 @@
 
 // put your custom CSS here!
 
+@font-face {
+  font-family: "Pixel Font";
+  font-style: normal;
+  font-weight: 200 400;
+  font-display: swap;
+  src: url("/static/fonts/pixel-font.ttf") format("truetype");
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Pixel Font", "monospace";
+}
+
 body {
-  font-family: Courier, monospace;
+  font-family: "Pixel Font", "monospace";
+  font-size: 20px;
   background: #800E16;
   color: white;
 }
