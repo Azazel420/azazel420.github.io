@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-06-17","modified":"2025-11-09T17:57:34.792-06:00","tags":["a","r","t"],"cssclasses":"","socialImage":"/images/the-art/pridewhale.png"}
+{"publish":true,"created":"2025-06-17","modified":"2025-11-11T17:57:25.660-06:00","tags":["art"],"cssclasses":"","socialImage":"/images/the-art/pridewhale.png"}
 ---
 
 ![](images/the-art/pridewhale.png)
