@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-06-28","modified":"2025-11-09T17:57:34.795-06:00","tags":["a","r","t"],"cssclasses":"","socialImage":"/images/the-art/im scared.png"}
+{"publish":true,"created":"2024-06-28","modified":"2025-11-11T17:56:52.129-06:00","tags":["art"],"cssclasses":"","socialImage":"/images/the-art/im scared.png"}
 ---
 
 ![](images/the-art/im scared.png)
