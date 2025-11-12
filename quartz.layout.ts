@@ -31,7 +31,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
         // {
@@ -43,6 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Blogs() },
       ],
     }),
+    Component.MobileOnly(Component.Spacer()),
     Component.ReaderMode(),
     //Component.Explorer(),
   ],
@@ -58,16 +58,18 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
         // {
         //   Component: Component.Search(),
         //   grow: true,
         // },
-        { Component: Component.Darkmode() },
+        { Component: Component.AboutMe() },
+        { Component: Component.MyCreations() },
+        { Component: Component.Blogs() },
       ],
     }),
+    Component.MobileOnly(Component.Spacer()),
     //Component.Explorer(),
   ],
   right: [],
