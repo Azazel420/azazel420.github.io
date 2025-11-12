@@ -1,5 +1,13 @@
 @use "../../styles/variables.scss" as *;
 
+@font-face {
+  font-family: "Pixel Font";
+  font-style: normal;
+  font-weight: 200 400;
+  font-display: swap;
+  src: url("/static/fonts/pixel-font.ttf") format("truetype");
+}
+
 @keyframes dropin {
   0% {
     opacity: 0;
@@ -32,9 +40,9 @@
     font-style: initial;
     line-height: normal;
     font-size: initial;
-    font-family: var(--bodyFont);
+    font-family: Pixel Font, monospace;
     border: 1px solid var(--lightgray);
-    background-color: var(--light);
+    background-color: #631017;
     border-radius: 5px;
     box-shadow: 6px 6px 36px 0 rgba(0, 0, 0, 0.25);
     overflow: auto;
