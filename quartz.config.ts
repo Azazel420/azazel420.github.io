@@ -27,7 +27,7 @@ const config: QuartzConfig = {
           name: "VT323",
           weights: [400]
         },
-        body: "VT323",
+        body: "Pixel Font",
         code: "IBM Plex Mono",
       },
       colors: {
