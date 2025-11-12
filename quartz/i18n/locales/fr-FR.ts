@@ -3,7 +3,7 @@ import { Translation } from "./definition"
 export default {
   propertyDefaults: {
     title: "Sans titre",
-    description: "Aucune description fournie",
+    description: "aucune description fournie",
   },
   components: {
     callout: {
@@ -11,19 +11,19 @@ export default {
       abstract: "Résumé",
       info: "Info",
       todo: "À faire",
-      tip: "Conseil",
+      tip: "conseil",
       success: "Succès",
       question: "Question",
-      warning: "Avertissement",
+      warning: "avertissement",
       failure: "Échec",
-      danger: "Danger",
-      bug: "Bogue",
-      example: "Exemple",
-      quote: "Citation",
+      danger: "danger",
+      bug: "bogue",
+      example: "exemple",
+      quote: "citation",
     },
     backlinks: {
       title: "Liens retour",
-      noBacklinksFound: "Aucun lien retour trouvé",
+      noBacklinksFound: "aucun lien retour trouvé",
     },
     themeToggle: {
       lightMode: "Mode clair",
@@ -33,10 +33,10 @@ export default {
       title: "Mode lecture",
     },
     explorer: {
-      title: "Explorateur",
+      title: "explorateur",
     },
     footer: {
-      createdWith: "Créé avec",
+      createdWith: "créé avec",
     },
     graph: {
       title: "Vue Graphique",
@@ -50,15 +50,18 @@ export default {
       linkToOriginal: "Lien vers l'original",
     },
     search: {
-      title: "Recherche",
-      searchBarPlaceholder: "Rechercher quelque chose",
+      title: "recherche",
+      searchBarPlaceholder: "rechercher quelque chose",
     },
     tableOfContents: {
-      title: "Table des Matières",
+      title: "table des matières",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min de lecture`,
     },
+    aboutMe: {
+      title: "au sujet de moi!",
+    }
   },
   pages: {
     rss: {
@@ -67,11 +70,11 @@ export default {
     },
     error: {
       title: "Introuvable",
-      notFound: "Cette page est soit privée, soit elle n'existe pas.",
+      notFound: "cette page est soit privée, soit elle n'existe pas.",
       home: "Retour à la page d'accueil",
     },
     folderContent: {
-      folder: "Dossier",
+      folder: "dossier",
       itemsUnderFolder: ({ count }) =>
         count === 1 ? "1 élément sous ce dossier." : `${count} éléments sous ce dossier.`,
     },
@@ -80,7 +83,7 @@ export default {
       tagIndex: "Index des étiquettes",
       itemsUnderTag: ({ count }) =>
         count === 1 ? "1 élément avec cette étiquette." : `${count} éléments avec cette étiquette.`,
-      showingFirst: ({ count }) => `Affichage des premières ${count} étiquettes.`,
+      showingFirst: ({ count }) => `affichage des premières ${count} étiquettes.`,
       totalTags: ({ count }) => `Trouvé ${count} étiquettes au total.`,
     },
   },

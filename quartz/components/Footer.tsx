@@ -21,7 +21,7 @@ export default ((opts?: Options) => {
           {Object.entries(links).map(([icon, link]) => (
             <li>
               <a href={link}>
-                <img src={`/static/socialmediaicons/${icon}.png`} width={"48"}></img>
+                <img src={`/static/icons/${icon}.png`} width={"48"}></img>
               </a>
             </li>
           ))}
