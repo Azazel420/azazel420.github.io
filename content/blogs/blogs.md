@@ -1,7 +1,11 @@
 ---
-{"publish":true,"title":"my blogs!","created":"2025-11-06T16:06:36.002-06:00","modified":"2025-11-12T07:36:26.320-06:00","cssclasses":""}
+{"publish":true,"title":"my blogs!","created":"2025-11-06T16:06:36.002-06:00","modified":"2026-01-01T01:33:55.482-06:00","cssclasses":""}
 ---
 
+
+# 2026
+
+- [[blogs/2026/happy new year!\|happy new year!]]
 
 # 2025
 
