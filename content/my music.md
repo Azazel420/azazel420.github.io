@@ -1,6 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-10T16:26:27.876-06:00","modified":"2025-11-10T11:20:49.300-06:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T16:26:27.876-06:00","modified":"2026-01-01T01:27:32.223-06:00","cssclasses":""}
 ---
+
+# out of time
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cVk0CsqYChw?si=27E4H0ULQuosBtiW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # miku’s inside again
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DnEC3X-UMzA?si=3sBig0lg6neTJeTF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
