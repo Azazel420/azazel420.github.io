@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-07T07:53:47.986-06:00","modified":"2025-11-11T18:05:49.635-06:00","cssclasses":"no-table-header"}
+{"publish":true,"created":"2025-11-07T07:53:47.986-06:00","modified":"2026-04-04T00:14:23.998-05:00","cssclasses":"no-table-header"}
 ---
 
 
 # who is azazel42?
-hi, i am azazel42, an artist, musician, and indie game dev. i really enjoy doing stuff and things that i will flesh out when i feel like it.
+hi, i am azazel42, my pronouns are all of them because i can. i am an artist, musician, and indie game dev (shitty flappy bird counts right?). i really enjoy doing stuff and things that i will flesh out when i feel like it.
 
 
 
