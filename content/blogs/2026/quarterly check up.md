@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2026-04-04","modified":"2026-04-04T00:12:04.097-05:00","tags":["b","l","o","g"],"cssclasses":""}
+publish: true
+created: 2026-04-04
+modified: 2026-04-04T00:18:28.895-05:00
+tags:
+  - blog
 ---
-
 
 hello endless void of nothingness. sorry i haven't posted anything as of late. its been somewhat difficult for me to be creative for some reason. just stuck in a rut in like everything i like doing.
 
@@ -14,3 +17,6 @@ by playing dragon quest builders!
 fun game, i liked the building with a blueprint but also finding combinations of stuff to make buildings. the second game feels like so much more of a slog though, at least in the first couple of hours. i really liked how straight forward the quests and stuff were in the first, but the second they make you just go through like 5 tutorials and i just dont care. its probably fine once you get past that, but still.
 
 oh yeah i bought daggerheart, the system is pretty cool, i like the system with the hope and fear dice and the slight bell curve but the gm keeps a straight d20 roll.
+also i spent like 200 bucks on the terraria board game lol, it should be arriving in may so ill post an update then
+
+goodbye for now friends, ill see you next time, love you all!
