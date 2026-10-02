@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2025-11-09T10:12:03.272-06:00
-modified: 2025-11-09T10:36:30.081-06:00
+created: 2025-11-09T16:12:03.272Z
+modified: 2025-11-09T16:36:30.081Z
 ---
 
 [[my art!]] [[my music]]

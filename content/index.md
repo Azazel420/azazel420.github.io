@@ -1,8 +1,8 @@
 ---
 publish: true
 title: welcome!
-created: 2025-11-06T16:06:36.002-06:00
-modified: 2025-11-12T07:20:50.775-06:00
+created: 2025-11-06T22:06:36.002Z
+modified: 2025-11-12T13:20:50.775Z
 cssclasses:
   - center-headers
 ---

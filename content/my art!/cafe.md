@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2024-09-21
-modified: 2025-11-11T17:56:38.540-06:00
+modified: 2025-11-11T23:56:38.540Z
 tags:
   - art
 socialImage: /images/the-art/cafe.png

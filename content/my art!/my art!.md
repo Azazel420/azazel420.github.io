@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2025-11-06T16:06:35.987-06:00
-modified: 2025-11-09T17:57:48.676-06:00
+created: 2025-11-06T22:06:35.987Z
+modified: 2025-11-09T23:57:48.676Z
 ---
 
 | Image                                                           | Title         | Date Created       | Description                                                          |
