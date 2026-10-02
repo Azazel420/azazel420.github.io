@@ -1,7 +1,8 @@
 ---
 publish: true
+title: nate and anna want to battle?
 created: 2025-08-18
-modified: 2025-11-11T17:56:21.393-06:00
+modified: 2026-10-02T01:40:47.822Z
 tags:
   - art
 socialImage: /images/the-art/battle.png

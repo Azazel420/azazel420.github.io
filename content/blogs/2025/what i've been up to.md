@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-12-24
-modified: 2026-01-01T01:34:17.442-06:00
+modified: 2026-01-01T07:34:17.442Z
 tags:
   - blog
 ---

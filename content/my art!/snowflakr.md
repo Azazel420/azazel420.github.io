@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2024-12-23
-modified: 2025-11-11T17:57:42.130-06:00
+modified: 2025-11-11T23:57:42.130Z
 tags:
   - art
 socialImage: /images/the-art/snowflakr.png

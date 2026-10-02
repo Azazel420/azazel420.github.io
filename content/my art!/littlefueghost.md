@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2024-10-02
-modified: 2025-11-11T17:56:57.734-06:00
+modified: 2025-11-11T23:56:57.734Z
 tags:
   - art
 socialImage: /images/the-art/littlefueghost.png

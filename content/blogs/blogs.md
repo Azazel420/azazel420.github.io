@@ -1,12 +1,13 @@
 ---
 publish: true
 title: my blogs!
-created: 2025-11-06T16:06:36.002-06:00
-modified: 2026-01-01T01:33:55.482-06:00
+created: 2025-11-06T22:06:36.002Z
+modified: 2026-01-01T07:33:55.482Z
 ---
 
 # 2026
 
+- [[blogs/2026/third quarter|third quarter]]
 - [[blogs/2026/second quarter!|second quarter!]]
 - [[blogs/2026/quarterly check up|quarterly check up]]
 - [[blogs/2026/happy new year!|happy new year!]]
