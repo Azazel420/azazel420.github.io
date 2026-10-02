@@ -1,7 +1,8 @@
 ---
 publish: true
+title: amplify
 created: 2025-05-30
-modified: 2025-11-11T23:56:19.118Z
+modified: 2026-10-02T01:40:01.198Z
 tags:
   - art
 socialImage: /images/the-art/amplify.png

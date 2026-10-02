@@ -1,47 +1,47 @@
 ---
 publish: true
 created: 2025-11-06T22:06:35.987Z
-modified: 2025-11-09T23:57:48.676Z
+modified: 2026-10-02T01:39:21.253Z
 ---
 
-| Image                                                           | Title         | Date Created       | Description                                                          |
-| --------------------------------------------------------------- | ------------- | ------------------ | -------------------------------------------------------------------- |
-| <img src='/images/the-art/ralsei.png' width='500'>              | -            | October 31, 2025   | -                                                                   |
-| <img src='/images/the-art/trreeee.png' width='500'>             | -            | September 29, 2025 | -                                                                   |
-| <img src='/images/the-art/hornet.png' width='500'>              | -            | August 19, 2025    | -                                                                   |
-| <img src='/images/the-art/battle.png' width='500'>              | -            | August 18, 2025    | -                                                                   |
-| <img src='/images/the-art/pridewhale.png' width='500'>          | -            | June 17, 2025      | -                                                                   |
-| <img src='/images/the-art/amplify.png' width='500'>             | -            | May 30, 2025       | -                                                                   |
-| <img src='/images/the-art/Ireallyhopeyougetit.png' width='500'> | -            | May 18, 2025       | -                                                                   |
-| <img src='/images/the-art/mr_owl.png' width='500'>              | -            | May 09, 2025       | -                                                                   |
-| <img src='/images/the-art/revolutionradio.png' width='500'>     | -            | April 27, 2025     | -                                                                   |
-| <img src='/images/the-art/alice.png' width='500'>               | alice         | March 20, 2025     | i made this rendition of the alice by heart poster after watching it |
-| <img src='/images/the-art/wallpaper2.png' width='500'>          | -            | March 05, 2025     | -                                                                   |
-| <img src='/images/the-art/brethar design.png' width='500'>      | -            | February 12, 2025  | -                                                                   |
-| <img src='/images/the-art/zaeryn.png' width='500'>              | -            | February 12, 2025  | -                                                                   |
-| <img src='/images/the-art/eyes.png' width='500'>                | -            | January 14, 2025   | -                                                                   |
-| <img src='/images/the-art/mikuinsideagain.png' width='500'>     | -            | January 02, 2025   | -                                                                   |
-| <img src='/images/the-art/snowflakr.png' width='500'>           | -            | December 23, 2024  | -                                                                   |
-| <img src='/images/the-art/stone.png' width='500'>               | -            | December 15, 2024  | -                                                                   |
-| <img src='/images/the-art/cake.png' width='500'>                | -            | December 11, 2024  | -                                                                   |
-| <img src='/images/the-art/sky.png' width='500'>                 | -            | November 30, 2024  | -                                                                   |
-| <img src='/images/the-art/me.png' width='500'>                  | -            | November 16, 2024  | -                                                                   |
-| <img src='/images/the-art/morestars.png' width='500'>           | -            | November 07, 2024  | -                                                                   |
-| <img src='/images/the-art/aManChooses.png' width='500'>         | a man chooses | November 06, 2024  | based off of bioshock                                                |
-| <img src='/images/the-art/sprigacreepo.png' width='500'>        | -            | October 06, 2024   | -                                                                   |
-| <img src='/images/the-art/pixelartjam2.png' width='500'>        | -            | October 05, 2024   | -                                                                   |
-| <img src='/images/the-art/pixelartjam2024.png' width='500'>     | -            | October 05, 2024   | -                                                                   |
-| <img src='/images/the-art/pikasans.png' width='500'>            | -            | October 04, 2024   | -                                                                   |
-| <img src='/images/the-art/vampD.png' width='500'>               | -            | October 03, 2024   | -                                                                   |
-| <img src='/images/the-art/littlefueghost.png' width='500'>      | -            | October 02, 2024   | -                                                                   |
-| <img src='/images/the-art/shitdrawing.png' width='500'>         | -            | October 01, 2024   | -                                                                   |
-| <img src='/images/the-art/bucket.png' width='500'>              | -            | September 30, 2024 | -                                                                   |
-| <img src='/images/the-art/stina.png' width='500'>               | -            | September 30, 2024 | -                                                                   |
-| <img src='/images/the-art/tina.png' width='500'>                | -            | September 29, 2024 | -                                                                   |
-| <img src='/images/the-art/bunger.png' width='500'>              | -            | September 24, 2024 | -                                                                   |
-| <img src='/images/the-art/cafe.png' width='500'>                | -            | September 21, 2024 | -                                                                   |
-| <img src='/images/the-art/clif.png' width='500'>                | -            | September 03, 2024 | -                                                                   |
-| <img src='/images/the-art/wallpaper.png' width='500'>           | -            | July 23, 2024      | -                                                                   |
-| <img src='/images/the-art/im scared.png' width='500'>           | -            | June 28, 2024      | -                                                                   |
-| <img src='/images/the-art/bedroom thing-grey.png' width='500'>  | -            | June 10, 2024      | -                                                                   |
-| <img src='/images/the-art/bedroom thing.png' width='500'>       | -            | June 09, 2024      | -                                                                   |
+| Image                                                           | Title                         | Date Created | Description                                                                                                                    |
+| --------------------------------------------------------------- | ----------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| <img src='/images/the-art/ralsei.png' width='500'>              | -                            | 2025-10-31   | -                                                                                                                             |
+| <img src='/images/the-art/trreeee.png' width='500'>             | -                            | 2025-09-29   | -                                                                                                                             |
+| <img src='/images/the-art/hornet.png' width='500'>              | -                            | 2025-08-19   | -                                                                                                                             |
+| <img src='/images/the-art/battle.png' width='500'>              | nate and anna want to battle? | 2025-08-18   | based off of the amazing performance of nate and anna at pokemon worlds 2025, i saw them in concert not too soon after as well |
+| <img src='/images/the-art/pridewhale.png' width='500'>          | -                            | 2025-06-17   | -                                                                                                                             |
+| <img src='/images/the-art/amplify.png' width='500'>             | amplify                       | 2025-05-30   | i made this one because i had recently won a signed copy of the book                                                           |
+| <img src='/images/the-art/Ireallyhopeyougetit.png' width='500'> | -                            | 2025-05-18   | -                                                                                                                             |
+| <img src='/images/the-art/mr_owl.png' width='500'>              | -                            | 2025-05-09   | -                                                                                                                             |
+| <img src='/images/the-art/revolutionradio.png' width='500'>     | -                            | 2025-04-27   | -                                                                                                                             |
+| <img src='/images/the-art/alice.png' width='500'>               | alice                         | 2025-03-20   | i made this rendition of the alice by heart poster after watching it                                                           |
+| <img src='/images/the-art/wallpaper2.png' width='500'>          | -                            | 2025-03-05   | -                                                                                                                             |
+| <img src='/images/the-art/brethar design.png' width='500'>      | -                            | 2025-02-12   | -                                                                                                                             |
+| <img src='/images/the-art/zaeryn.png' width='500'>              | -                            | 2025-02-12   | -                                                                                                                             |
+| <img src='/images/the-art/eyes.png' width='500'>                | -                            | 2025-01-14   | -                                                                                                                             |
+| <img src='/images/the-art/mikuinsideagain.png' width='500'>     | -                            | 2025-01-02   | -                                                                                                                             |
+| <img src='/images/the-art/snowflakr.png' width='500'>           | -                            | 2024-12-23   | -                                                                                                                             |
+| <img src='/images/the-art/stone.png' width='500'>               | -                            | 2024-12-15   | -                                                                                                                             |
+| <img src='/images/the-art/cake.png' width='500'>                | -                            | 2024-12-11   | -                                                                                                                             |
+| <img src='/images/the-art/sky.png' width='500'>                 | -                            | 2024-11-30   | -                                                                                                                             |
+| <img src='/images/the-art/me.png' width='500'>                  | -                            | 2024-11-16   | -                                                                                                                             |
+| <img src='/images/the-art/morestars.png' width='500'>           | -                            | 2024-11-07   | -                                                                                                                             |
+| <img src='/images/the-art/aManChooses.png' width='500'>         | a man chooses                 | 2024-11-06   | based off of bioshock                                                                                                          |
+| <img src='/images/the-art/sprigacreepo.png' width='500'>        | -                            | 2024-10-06   | -                                                                                                                             |
+| <img src='/images/the-art/pixelartjam2.png' width='500'>        | -                            | 2024-10-05   | -                                                                                                                             |
+| <img src='/images/the-art/pixelartjam2024.png' width='500'>     | -                            | 2024-10-05   | -                                                                                                                             |
+| <img src='/images/the-art/pikasans.png' width='500'>            | -                            | 2024-10-04   | -                                                                                                                             |
+| <img src='/images/the-art/vampD.png' width='500'>               | -                            | 2024-10-03   | -                                                                                                                             |
+| <img src='/images/the-art/littlefueghost.png' width='500'>      | -                            | 2024-10-02   | -                                                                                                                             |
+| <img src='/images/the-art/shitdrawing.png' width='500'>         | -                            | 2024-10-01   | -                                                                                                                             |
+| <img src='/images/the-art/bucket.png' width='500'>              | -                            | 2024-09-30   | -                                                                                                                             |
+| <img src='/images/the-art/stina.png' width='500'>               | -                            | 2024-09-30   | -                                                                                                                             |
+| <img src='/images/the-art/tina.png' width='500'>                | -                            | 2024-09-29   | -                                                                                                                             |
+| <img src='/images/the-art/bunger.png' width='500'>              | -                            | 2024-09-24   | -                                                                                                                             |
+| <img src='/images/the-art/cafe.png' width='500'>                | -                            | 2024-09-21   | -                                                                                                                             |
+| <img src='/images/the-art/clif.png' width='500'>                | -                            | 2024-09-03   | -                                                                                                                             |
+| <img src='/images/the-art/wallpaper.png' width='500'>           | -                            | 2024-07-23   | -                                                                                                                             |
+| <img src='/images/the-art/im scared.png' width='500'>           | -                            | 2024-06-28   | -                                                                                                                             |
+| <img src='/images/the-art/bedroom thing-grey.png' width='500'>  | -                            | 2024-06-10   | -                                                                                                                             |
+| <img src='/images/the-art/bedroom thing.png' width='500'>       | -                            | 2024-06-09   | -                                                                                                                             |
