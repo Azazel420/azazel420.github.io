@@ -274,6 +274,10 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:requiae/quartz-leaflet-bases-plugin
+    enabled: true
+    options:
+      enableCopyTool: true
 layout:
   groups:
     toolbar:
