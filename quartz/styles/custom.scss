@@ -1,3 +1,15 @@
 @use "./variables.scss" as *;
 
+@font-face {
+  font-family: "Pixel Font";
+  font-display: swap;
+  font-weight: 400 700;
+  font-style: normal;
+  src: url("../static/pixel-font-monospaced.otf.woff2") format("woff2");
+}
+
+div{
+  font-family: "Pixel Font", sans-serif;
+}
+
 // put your custom CSS here!

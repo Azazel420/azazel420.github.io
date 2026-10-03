@@ -13,23 +13,23 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
+    fontOrigin: selfHosted
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
+      header: Pixel Font
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#9b120d"
-        lightgray: "#9b120d"
-        gray: "#ffffff"
+        light: "#9b2b2b"
+        lightgray: "#77072e"
+        gray: "#d6d1d1"
         darkgray: "#ffffff"
         dark: "#ffffff"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
+        secondary: "#9d76e2"
+        tertiary: "#8728c1"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        textHighlight: "#ffffff"
       darkMode:
         light: "#c61b15"
         lightgray: "#c4604c"
@@ -109,7 +109,15 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-community/quartz-fonts"
-    enabled: true
+    enabled: false
+  - source: "@quartz-community/fonts"
+    enabled: false
+    options:
+      useThemeFonts: false
+      fontOrigin: selfHosted
+      body: Pixel Font
+      header: Pixel Font
+      code: Pixel Font
   - source: "@quartz-themes/core"
     enabled: false
     options:
@@ -158,7 +166,7 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
@@ -168,7 +176,7 @@ plugins:
       position: right
       priority: 10
   - source: "@quartz-community/search"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 20
